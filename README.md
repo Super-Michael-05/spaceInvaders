@@ -1,4 +1,4 @@
-<h1 align="center">spaceWar</h1>
+<h1 align="center">spaceInvaders</h1>
 
 ![Banner](https://raw.githubusercontent.com/Super-Michael-05/spaceInvaders/master/README_assets/banner.png)
 
